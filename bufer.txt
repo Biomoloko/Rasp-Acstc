@@ -1,0 +1,14 @@
+[Pck #248] - [Sz=19214]
+[ByInConvert WARNING] Payload len 19194 not multiple of 4. Trimming 2 bytes.
+[Packet #249] 14:19:36.67 - Detected 1 event(s)
+[Zigbee] Bin sent: Pack#249 (555 bytes)
+[Zigbee Sent] 14:19:36.67 | Pack #249 | Event 1/1 | Loud=0.9987
+----------------------------------------------------
+ ├─ Event 1: Start=4558, End=4797, MaxAbs=2144599558, Loud=0.9987
+[Pck #249] - [Sz=19215]
+[ByInConvert WARNING] Payload len 19195 not multiple of 4. Trimming 3 bytes.
+[Packet #250] 14:19:37.66 - Detected 1 event(s)
+[Zigbee] Bin sent: Pack#250 (1991 bytes)
+[Zigbee Sent] 14:19:37.66 | Pack #250 | Event 1/1 | Loud=0.9991
+----------------------------------------------------
+ ├─ Event 1: Start=3125, End=4797, MaxAbs=2145558783, Loud=0.9991
